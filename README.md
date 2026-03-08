@@ -13,7 +13,7 @@ Used ISOT Fake News Dataset from Kaggle.
 - Evaluation using accuracy and F1-score
 
 ## Results
-Achieved XX% accuracy on validation dataset.
+Achieved 76% accuracy on validation dataset.
 
 ## Technologies Used
 - Python
